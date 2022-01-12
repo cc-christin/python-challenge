@@ -4,7 +4,7 @@ Complete the **two** Python Challenges, PyBank and PyPoll.
 ### Before You Begin
 * Create a new repository for this project called `python-challenge`.
 * Inside your local git repository, create a directory for each Python Challenge. Use folder names corresponding to the challenges: **PyBank** and  **PyPoll**.
-  * Inside of each folder that you just created, add the following:
+* Inside of each folder that you just created, add the following:
 
   * A new file called `main.py`. This will be the main script to run for each analysis.
   * A "Resources" folder that contains the CSV files you used. Make sure your script has the correct path to the CSV file.
