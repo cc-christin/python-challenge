@@ -30,3 +30,12 @@ Complete the **two** Python Challenges, PyBank and PyPoll.
 ![Financial Analysis](https://github.com/christin-c-sok/python-challenge/blob/main/Images/financial_analysis.png)
 
 ### Completed PyPoll 
+* Help a small, rural town modernize its vote counting process.
+* [election_data.csv](PyPoll/Resources/election_data.csv), dataset was given.
+* The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.
+* Create a Python script that analyzes the votes and calculates each of the following:
+* The total number of votes cast
+  * A complete list of candidates who received votes
+  * The percentage of votes each candidate won
+  * The total number of votes each candidate won
+  * The winner of the election based on popular vote.
