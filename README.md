@@ -26,6 +26,6 @@ Complete the **two** Python Challenges, PyBank and PyPoll.
   * The greatest decrease in profits (date and amount) over the entire period
 
 * Final script generates text file:financial_analysis.txt and prints the following:  
-![Financial Analysis](Images/Vote_counting.png)
+![Financial Analysis](https://github.com/christin-c-sok/python-challenge/blob/main/Images/financial_analysis.png)
 
 ### Completed PyPoll 
