@@ -13,5 +13,17 @@ Complete the **two** Python Challenges, PyBank and PyPoll.
 * Push the above changes to GitHub or GitLab.
 
 ### Completed PyBank 
+* Create a Python script for analyzing the financial records of your company.
+* [budget_data.csv](PyBank/Resources/budget_data.csv), dataset was given.
+* The dataset is composed of two columns: `Date` and `Profit/Losses`.
+
+* Your task is to create a Python script that analyzes the records to calculate each of the following:
+
+  * The total number of months included in the dataset
+  * The net total amount of "Profit/Losses" over the entire period
+  * Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
+  * The greatest increase in profits (date and amount) over the entire period
+  * The greatest decrease in profits (date and amount) over the entire period
+
 
 ### Completed PyPoll 
