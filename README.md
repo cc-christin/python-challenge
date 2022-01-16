@@ -40,7 +40,7 @@ Complete the **two** Python Challenges, PyBank and PyPoll.
   * The percentage of votes each candidate won
   * The total number of votes each candidate won
   * The winner of the election based on popular vote.
-  *
+ 
 * Final script generates text file:election_results.txt and prints the following:
 
    ![Election Results](https://github.com/christin-c-sok/python-challenge/blob/main/Images/election_results.png)
